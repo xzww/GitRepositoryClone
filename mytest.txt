@@ -1,0 +1,1 @@
+PL/SQL Developer是一个集成开发环境，专门开发面向Oracle数据库的应用。PL/SQL也是一种程序语言，叫做过程化SQL语言（Procedural Language/SQL）
